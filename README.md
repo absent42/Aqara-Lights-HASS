@@ -1,5 +1,5 @@
 # Aqara-Lights-HASS
-Aqara Lights MQTT integration for Home Assistant
+Aqara Lights MQTT HACS integration for Home Assistant
 
 Initial support:
 * T2 RGB Bulb
